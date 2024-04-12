@@ -353,6 +353,14 @@ a {
   }
 }
 
+.content-hd .info ul > li > a {
+  color: #fff;
+  font-family: Lucida Grande, Hiragino Sans GB, Hiragino Sans GB W3,
+    Helvetica Neue, Helvetica, Arial, Microsoft YaHei, sans-serif;
+  font-size: 14px;
+  line-height: 22px;
+}
+
 .content-hd .contact ul > li > a {
   color: #fff;
   font-family: Lucida Grande, Hiragino Sans GB, Hiragino Sans GB W3,
